@@ -500,10 +500,45 @@ img {
     display: block;
     background-color: var(--first-color)
   }
-
   .skills__html{
-    width: 95%;
+    width: 100%;
   }
+
+  .skills__Next{
+    width: 80%;
+  }
+  .skills__Next{
+    width: 70%;
+  }
+  .skills__rea{
+    width: 90%;
+  }
+  .skills__Lara{
+    width: 60%;
+  }
+  .skills__Express{
+    width: 70%;
+  }
+  .skills__Flask{
+    width: 70%;
+  }
+  .skills__java{
+    width: 70%;
+  }
+
+  .skills__Android{
+    width: 85%;
+  }
+  .skills__Kotlin{
+    width: 70%;
+  }
+
+  .skills__Ionic{
+    width: 85%;
+  }
+
+
+
 
   .skills__css{
     width: 80%;
